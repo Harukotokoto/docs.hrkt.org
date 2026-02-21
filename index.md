@@ -4,14 +4,17 @@ layout: home
 
 hero:
   name: "Miku"
-  tagline: 完全無料の多機能Bot
+  text: "Making Everything Easy"
+  tagline: みんなで作る多機能Bot
   actions:
     - theme: brand
-      text: 使い方
+      text: はじめに
       link: /docs/getting-started
     - theme: alt
       text: サーバーに招待
       link: /invite
+  image: https://cdn.discordapp.com/avatars/1318492572858974268/aba6e3cc9d5776a4d7b9c6a839c9bf4c.png?size=1024
+  alt: Miku
 
 features:
   - title: 高速な読み上げ機能

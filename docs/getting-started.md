@@ -2,6 +2,8 @@
 
 **Miku** は、Discordサーバーの管理とコミュニティ活動をサポートする完全無料の多機能Botです。「Making Everything Easy」をモットーに、読み上げ・レベル・実績・チケット・AI・音楽・経済システムなど、さまざまな機能を提供します。
 
+**こんな機能が欲しい！など要望があれば是非サポートサーバーのチケットまで！**
+
 ## サーバーにBotを招待 {#invite}
 
 [招待リンク](https://discord.com/oauth2/authorize?client_id=1318492572858974268&permissions=8&integration_type=0&scope=bot+applications.commands) を使用してサーバーにBotを追加してください。
