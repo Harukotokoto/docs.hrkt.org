@@ -65,5 +65,8 @@ export default defineConfig({
   },
   markdown: {
     math: true
-  }
+  },
+  rewrites: {
+    'source/:page': 'destination/:page'
+  },
 })
