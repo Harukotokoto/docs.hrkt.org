@@ -20,7 +20,7 @@
 - デフォルトでONになっています。不要な場合は[`/module`](/docs/commands/module)を使用して無効化してください
 
 ### チケットの設定
-- AIを使用したチケットパネルを作成できます。([詳細](http://localhost:5173/docs/commands/moderation.html#ticket))
+- AIを使用したチケットパネルを作成できます。([詳細](/docs/commands/moderation#ticket))
 
 ### カスタムロールの設定
 - サーバーブースター向けによく使われるカスタムロールですが、自動化することができます。([詳細](/docs/commands/custom-role))
