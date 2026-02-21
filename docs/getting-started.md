@@ -27,10 +27,10 @@
 - サーバーメンバー向けの説明は[こちら](/docs/commands/custom-role#role)
 
 ### 引き抜き対策のDM無効化の自動化
-- [`/module`](/docs/commands/modules#モジュール一覧)の`dm_disabler`を有効化することで設定することができます。
+- [`/module`](/docs/commands/module#モジュール一覧)の`dm_disabler`を有効化することで設定することができます。
 
 ### ロールキーパーの設定
-- [`/module`](/docs/commands/modules#モジュール一覧)の`role_keeper`を有効化することで設定することができます。
+- [`/module`](/docs/commands/module#モジュール一覧)の`role_keeper`を有効化することで設定することができます。
 サーバーに再度参加した時に、以前所有していたロールが復元されます。
 
 ## 次のステップ
